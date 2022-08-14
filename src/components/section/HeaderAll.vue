@@ -2,7 +2,7 @@
   <div class="header-style">
     <nav class="navbar navbar-expand-lg">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">Mohsen nc</a>
+        <a class="navbar-brand" href="#">Mohsen newcastle</a>
         <button
           class="navbar-toggler"
           type="button"
